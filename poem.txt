@@ -4,4 +4,6 @@ rosa
 naranja
 amarillo
 azul
+verde
 red
+son los colores del arcoiris
