@@ -3,6 +3,7 @@ morado
 rosa
 naranja
 amarillo
+Lila
 unicornio
 azul
 verde
