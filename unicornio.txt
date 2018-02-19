@@ -1,0 +1,5 @@
+Cuerno
+4 patas
+cin
+cola
+cabeza
